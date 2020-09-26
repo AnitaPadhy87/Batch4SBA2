@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Show cart</title>
 </head>
 <body>
 <core:import url="header.jsp" />
