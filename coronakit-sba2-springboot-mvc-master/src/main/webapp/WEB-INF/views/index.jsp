@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Corona Kit</title>
 </head>
 <body>
 <h1>Welcome to Corona-Kit Home...</h1>
