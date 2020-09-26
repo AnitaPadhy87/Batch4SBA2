@@ -37,7 +37,7 @@
 			<div>
 				<div><spring:label path="cost">Enter cost</spring:label></div>
 				<div>
-					<spring:input path="cost"/>
+					<spring:input path="cost" type="number"/>
 					<spring:errors path="cost" cssClass="error"/>
 				</div>
 			</div>
